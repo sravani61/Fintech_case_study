@@ -1,4 +1,4 @@
-# Fintech_case_study on Fundrise - A CRE Investment Platform
+# Fintech Case Study on Fundrise - A CRE Investment Platform
 
 ## About the Industry
 
