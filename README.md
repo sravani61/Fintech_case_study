@@ -219,18 +219,6 @@ Fundrise 2.0 was just announced, and while their eREITs are still the underlying
 
 •	Redemption: Fundrise offers a redemption program that allows investors to sell shares back to Fundrise for a fee. That fee, which is paid into the eREIT or eFund, is calculated as a reduction to the share price value: 0% if in the first 90 days; 3% reduction if the shares were held at least 90 days but less than three years; 2% if shares held at least three years but less than four years; 1% if shares held at least four years but less than five years. There’s no share-price reduction to redeem shares held five or more years.
 
-**Baseline**
-
-**Investing through Fundrise is better option for:**
-
-1.	Investors with long term vision
-
-2.	Investors who want to diversify out of stocks
-
-3.	Risk takers
-
-4.	Those who want to learn about new investments
-
 **Comparing to competitors**
 
 According to investorjunkie.com:
@@ -247,6 +235,18 @@ If you’re not completely satisfied with your investment, just let Fundrise kno
 **Optional Upgrade to Premium Plan**
 
 The second incredible feature that the Starter Portfolio offers is the option to upgrade to a premium plan for free. Once you’ve invested a minimum of $1,000 with Fundrise through the Starter Portfolio, you can upgrade to one of the previously mentioned plans absolutely free. The Starter Portfolio is a smart option for anyone new to real estate investing that doesn’t have a large amount of cash up front.
+
+**Baseline**
+
+**Investing through Fundrise is better option for:**
+
+1.	Investors with long term vision
+
+2.	Investors who want to diversify out of stocks
+
+3.	Risk takers
+
+4.	Those who want to learn about new investments
 
 **Summary of Fundrise platform**
 
