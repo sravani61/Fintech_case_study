@@ -1,8 +1,10 @@
-# Fintech_case_study on Fundrise - A CRE investment platform
+# Fintech_case_study on Fundrise - A CRE Investment Platform
+
 ## About the Industry
+
 There are 4 primary types of real estate - land, industrial, residential, and commercial. Commercial is he broadest type of real estate and there are many sub-categories within the CRE category.
 
-**Commercial Real Estate** is defined as any property owned to produce income. It is any kind of property, including land, which brings or has the potential to bring income. CRE is any offering of office, retail, industrial, medical, hospitality, and other commercial space that can be leased (and sometimes bought) for the use of the business. Commercial properties can be classified into six main categories: office, retail, industrial, multi-family, land, and a miscellaneous catch-all category that includes everything else.
+•	**Commercial Real Estate** is defined as any property owned to produce income. It is any kind of property, including land, which brings or has the potential to bring income. CRE is any offering of office, retail, industrial, medical, hospitality, and other commercial space that can be leased (and sometimes bought) for the use of the business. Commercial properties can be classified into six main categories: office, retail, industrial, multi-family, land, and a miscellaneous catch-all category that includes everything else.
 
 •	**Office Properties** include single-tenant buildings, small professional buildings, skyscrapers, and everything in between. They can be classified among three different classes, ranging from A to C, A being the best properties in the market. Investors usually target the Class B type properties. These are not restricted to metropolitan areas; suburban office buildings dot the landscape everywhere there are residences to support them.
 
